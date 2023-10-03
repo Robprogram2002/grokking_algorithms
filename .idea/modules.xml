@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DS_and_Algorithms_Python/.idea/DS_and_Algorithms_Python.iml" filepath="$PROJECT_DIR$/../DS_and_Algorithms_Python/.idea/DS_and_Algorithms_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/grokking_algorithms.iml" filepath="$PROJECT_DIR$/.idea/grokking_algorithms.iml" />
+    </modules>
+  </component>
+</project>
